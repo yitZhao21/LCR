@@ -116,9 +116,6 @@ Feel free to use the following as resources:
 
 Alternative Textbook: [Data Science: A First Introduction](https://python.datasciencebook.ca/classification1.html) (Chapters 5-10)
 
-### How to get help
-![image](./steps_to_ask_for_help.png)
-
 ## Folder Structure
 
 ```markdown
