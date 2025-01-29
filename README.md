@@ -14,7 +14,6 @@
   - [Multiple linear regression, interactions, qualitative predictors](#multiple-linear-regression-interactions-qualitative-predictors)
   - [Classification (logistic regression, generative models)](#classification-logistic-regression-generative-models)
   - [Resampling methods (CV, bootstrap) and Linear model selection and regularization](#resampling-methods-cv-bootstrap-and-linear-model-selection-and-regularization)
-  + [How to get help](#how-to-get-help)
 * [Folder Structure](#folder-structure)
 
 ## Description
