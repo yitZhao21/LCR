@@ -24,12 +24,12 @@ This module introduces the skills required to design, implement, and test basic 
 
 By the end of the module, participants will be able to:
 
-- Implement and interpret the results from several supervised learning approaches for **classification and regression**, using libraries like pandas, numpy, and scikit-learn.
-- Use **resampling methods** such as cross-validation and bootstrapping to select and evaluate models.
-- Determine the **requirements for reproducible machine learning** and ensure consistency across model implementations.
-- Analyze the **uncertainties and limitations** associated with model results and understand the **ethical implications** of applying these models in real-world decision-making.
-- Effectively explain the **trade-offs and considerations** for various statistical methods to both **technical** and **non-technical** audiences.
-- Apply **pandas, numpy, and scikit-learn** for data manipulation, model implementation, and evaluation.
+- Implement and interpret the results from several supervised learning approaches for classification and regression.
+- Use resampling methods such as cross-validation and bootstrapping to select and evaluate models.
+- Understand the requirements for reproducible machine learning and ensure consistency across model implementations.
+- Analyze the uncertainties and limitations associated with model results and understand the ethical implications of applying these models in real-world decision-making.
+- Explain the trade-offs and considerations of various statistical methods to both technical and non-technical audiences.
+- Apply `pandas`, `numpy`, and `scikit-learn` for data manipulation, model implementation, and evaluation.
 
 ## Assignments
 
