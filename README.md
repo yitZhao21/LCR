@@ -53,7 +53,7 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 **Questions can be submitted to the _#dc-help_ channel on Slack**
 * Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
 * Learning Support Staff: **Kasra**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U07QV463BPF)
-* Learning Support Staff: **Krystal**. Questions can be sent via [Slack]((https://uoft-dsi-certificates.slack.com/team/U08E2FPQ43F))
+* Learning Support Staff: **Krystal**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08E2FPQ43F)
 
 ### Delivery of the Learning Module
 
