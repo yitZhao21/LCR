@@ -34,10 +34,10 @@ Linear Regression, Classification, and Resampling
 
 ---
  ##### Example dataset
-932 real estate transactions in Sacramento, California is the dataset we will be using, specifically for predicting whether the size of a house in Sacramento can be used to predict its sale price. 
+Real estate transactions in Sacramento, California is the dataset we will be using, specifically for predicting whether the size of a house in Sacramento can be used to predict its sale price. 
 
 - *Key features:* 
-  - 932 observations (rows)
+  - 813 observations (rows)
   - predictor of interest (sqft; house size, in livable square feet)
   - response variable of interest (house sale price, in USD)
 ---
@@ -94,8 +94,6 @@ The ideal model strikes a balance: it captures the overall trend without being s
 ---
   ![bg w:750](./images/under_over.png)
 
----
-![bg w:1000](./images/gif)
 
 ---
 #### Multivariable KNN regression
