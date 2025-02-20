@@ -18,9 +18,7 @@ $ echo "Data Science Institute"
 
 - Technical Facilitator: Julia
 - Learning Support Staff: Kasra
-- Learning Support Staff: Vishakh
-- Learning Support Staff: Dmytro
-
+- Learning Support Staff: Fan (Krystal)
 ---
 
 
@@ -83,7 +81,7 @@ We use a simple formula to show how the budget (predictor) might be related to s
 
 ---
 ## What is Statistical Learning?
-![Sales Figure](./images/01_sales_fig.png) 
+![Sales Figure, w:700](./images/01_sales_fig.png) 
 
 The relationship between the advertising budgets and sales can be shown by a line of best fit, but there will always be some random error in our predictions. This random error shows that no model is perfect.
 
@@ -143,3 +141,14 @@ To estimate the relationship between the budget and sales, we typically split ou
 - **_Regression problems:_** We predict numerical values, like sales based on the budget.
 - **_Classification problems:_** We predict categories, like whether someone will buy a product (yes or no).
 - This is a bit of a simplification, but for our purposes, we can think of regression as predicting numerical values and classification as predicting categories.
+---
+# Types of Plots 
+In upcoming modules, you'll dive deeper into plotting techniques, but for now, let's quickly review some common plots that will appear in this module:
+  - **Scatter plots**: display the relationship between two continuous variables 
+    - For example, relationship between house size and house price
+![Scatter plot, w:370](./images/scatterplot.png) 
+
+---
+  - **Histograms**: display the distribution of a numeric variable's values as a series of bars, with each bar representing the count of values within a specific range.
+    - For example, frequency of price per night ($)
+![Scatter plot, w:400](./images/price_airbnb.png) 
